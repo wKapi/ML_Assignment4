@@ -68,6 +68,7 @@ Facial-Expression-Recognition/
 ## Weights & Biases (W&B) Tracking
 ყველა ჩატარებული ექსპერიმენტი და რანი დარეგისტრირებულია Weights & Biases პლატფორმაზე:
 *  **W&B პროექტის გვერდი:** (https://wandb.ai/mkapa22-free-university-of-tbilisi-/facial-expression-recognition?nw=nwusermkapa22)
+*  **ასევე რეპორტიც გაკეთებულია** https://wandb.ai/mkapa22-free-university-of-tbilisi-/facial-expression-recognition/reportlist
 თითოეულ რანში დაილოგა:
 * **ჰიპერპარამეტრები:** model_architecture, learning_rate, batch_size, weight_decay, epochs;
 * **მეტრიკები:** train_loss, train_acc, val_loss, val_acc და lr (ცვლილება დროში სქედულერის მიერ).
